@@ -60,4 +60,4 @@ The model achieves about **78%** accuracy and performs well at detecting negativ
 
 ---
 
-Build and trained on [Kaggle](https://www.kaggle.com) by Piyush Nagpal
+Build and trained on [Kaggle](https://www.kaggle.com) by Piyush Nagpal.
